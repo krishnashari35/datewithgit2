@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hey friends
+=======
+File modified
+>>>>>>> feature
