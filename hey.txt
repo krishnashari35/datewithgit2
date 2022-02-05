@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 File modified
 
 
@@ -11,3 +11,6 @@ File modified
 
 
 This is hari
+
+
+Tell me about your friends
